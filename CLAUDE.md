@@ -97,4 +97,5 @@ goes to localhost:3000. run seed.js again anytime to wipe and reset the demo dat
 
 read the contradiction log before you touch anything related to permissions or message editing, the reasoning matters more than the code here. if Renee ever actually responds to something, the one open question worth asking her is whether "admin" should be something she can assign to people later instead of just being hardcoded in the seed data.
 
-- mayur
+Your's sincerely,
+Mayur
