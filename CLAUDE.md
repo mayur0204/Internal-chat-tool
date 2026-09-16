@@ -2,7 +2,7 @@
 
 repo: https://github.com/mayur0204/Internal-chat-tool.git
 
-last updated 16 Sept, app is demo-ready, all 4 done conditions from Section 4 checked manually against the running app before submitting.
+last updated 16 Sept
 
 Notes for whoever (or whatever) is reading this repo without the full context. Built this in 2 days off one client note from Renee (ops lead at the startup). The note is the entire spec, no follow up calls, nothing else. It contradicts itself twice and I had to just make a call on both instead of asking her since she said she's unreachable this week. Both calls are documented below, don't second guess them without reading the reasoning first, I already went back and forth on this more than I'd like to admit.
 
